@@ -6,11 +6,20 @@ html {
 }
 
 #kcontainer {
-	display: flex;
-	flex-direction: column;
-	flex-wrap: nowrap;
-	justify-content: flex-start;
-	align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #000;
+}
+
+.button_container{
+    background-color: #000;
+}
+
+.container {
+    text-align: center;
 }
 
 .keyboard_row {
